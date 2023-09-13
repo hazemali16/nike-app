@@ -7,12 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        fontFamily: {
+          palanquin: ['Palanquin', 'sans-serif'],
+          montserrat: ['Montserrat', 'sans-serif'],
+        },
+        colors: {
+          coral_red: '#ff6254'
+        }
       },
-    },
   },
   plugins: [],
 }

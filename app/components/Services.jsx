@@ -12,7 +12,7 @@ const Services = () => {
                 />
                 </div>
 
-                <h3 className='font-bold text-xl font-montserrat mb-4'>Free shipping</h3>
+                <h3 className='font-bold text-xl font-montserrat mb-4'>Free shopping</h3>
                 <p className='text-slate-500 leading-7 font-montserrat'>Enjoy seamless shopping with our complimentary shipping service.</p>
             </div>
             <div className="w-[400px] p-10 shadow-2xl flex flex-col justify-center rounded-xl h-72">

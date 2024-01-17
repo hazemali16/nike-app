@@ -89,7 +89,7 @@ const Footer = () => {
             </footer>
             <div className="bg-black flex px-[10%] items-center justify-between text-[#bbb] py-5">
                 <span className="">
-                    Created By Hazem ALi
+                    Created By Hazem Ali
                 </span>
                 <span>Terms & Conditions</span>
             </div>

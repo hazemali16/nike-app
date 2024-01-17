@@ -88,9 +88,8 @@ const Footer = () => {
                 </div>
             </footer>
             <div className="bg-black flex px-[10%] items-center justify-between text-[#bbb] py-5">
-                <span className="flex gap-2 items-center">
-                    <Image src={copyrightSign} alt="copy right" />
-                    Copyright. All rights reserved.
+                <span className="">
+                    Created By Hazem ALi
                 </span>
                 <span>Terms & Conditions</span>
             </div>
